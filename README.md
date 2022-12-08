@@ -4,4 +4,4 @@ Some description!
 
 ## Subtitle
 
-This is my first Git tutorial.
+This is my first Git tutorial!
